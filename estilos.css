@@ -1,0 +1,151 @@
+#body {
+	background-image: url(IRUDIAK/biblioteca.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#menu li {
+    float: left;
+}
+
+#menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+#menu li a:hover {
+    background-color: #111;
+}
+
+#erab {
+
+	text-align: right;
+	color: white;
+}
+
+#log {
+
+	text-align: right;
+
+}
+h1.lehenengo {
+	
+		margin-left: 430px;
+		margin-right: 300px;
+	
+}
+	
+h2.izena{
+	color: #28EE0C;
+	text-align: left;
+	margin-top: 0px
+}
+
+div#txt{
+	position:absolute;
+	margin-left:300px;
+	overflow:hidden;
+	width:50%;
+	color:white;
+	text-align:center;
+	margin-top:5px;
+}
+
+#taula {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	
+}
+
+#taula td, #taula th {
+    border: 5px solid #ddd;
+    padding: 15px;
+	text-align: center;
+}
+
+#taula tr {background-color: #f2f2f2;}
+
+
+
+#taula th {
+    padding-top: 12px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #AF33FF;
+    color: white;
+	
+}
+
+article{
+	margin-top:180px;
+	margin-left:150px;
+}
+div#irudi{
+	margin-top:-300px;
+	margin-left:550px;
+	
+}
+div#bukaera{
+	color:white;
+	text-align:center;
+}
+h1.izenburua{
+	margin-top:100px;
+	color: #AF33FF;
+	text-align: center;
+    text-shadow: 4px 4px 4px black;
+    font-size: 350%;
+	
+}
+div#pcirudia{
+	text-align:left;
+	margin-top:25px;	
+}
+div#atakak{
+	text-align:right;
+	margin-top:25px;
+}
+#argazkik{
+	margin-left:60px;
+	margin-right: 150px;
+	margin-top:25px;
+}
+#dok_sarea{
+	position:absolute;
+	border: 8px solid white;
+	top:55%;
+	left:15%;
+	width:70%;
+	background-color:#3DB7B3;
+	color:#101066; 
+	text-align:center;
+	
+}
+
+a {
+	color: red;
+	text-decoration: none;
+}
+
+#orgatxoa{
+
+	text-align: right;
+}
